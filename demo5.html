@@ -1,0 +1,49 @@
+<!-- 변수(1/2) 사용법-->
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+        //변수(Variable) : 문자나 숫자를 담는 상자 혹은 컨테이너로 값을 유지할 필요가 있을때 사용
+        //                 변수에 담겨진 값은 다른값으로도 바꿀 수 있다.(=변한다)
+
+        //변수의 선언 : var, let은 변수를 선언하겠다는 것을 의미한다.
+        //              var, let을 생략할 수 도있지만 유효범위라는것에 영향을 미치기때문에 사용하는것을 권장
+
+        var a= 1;
+        alert(a);
+        var a = 10;
+        alert(a);   
+        console.log("a");   //a=1이였다가 a=10으로 바뀜(이처럼 변수는 바뀔 수 있음)
+        
+        var a = 1;
+        var b = 2;
+        console.log("a + b");   //변수끼리 연산 하여 값을 도출가능 -> 3이 출력됨
+
+        var a = 2;
+        var b = 2;
+        console.log("a + b");   //값이 변하여 4가 출력됨
+
+
+        //변수에는 숫자뿐 아니라 문자도 담을 수 있다.
+        var first = "coding";
+        console.log(first + " everybody");  //coding everybody 가 출력
+
+        first = '코딩'  //위에서 선언한 변수를 재사용할때는 앞에 var을 붙이지 않아도된다.
+        console.log(first + " everybody");   //코딩 everybody 가 출력
+
+
+        //var을 쓰는게 귀찮을때
+        var a = 'coding',  b = 'everybody';
+        console.log(a + b);
+
+    </script>
+</body>
+
+</html>
