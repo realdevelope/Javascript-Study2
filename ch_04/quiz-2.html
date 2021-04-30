@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>3의 배수 찾기</title>
+	<style>
+		body {
+			font-size:1.2em;
+			text-align:center;
+		}
+	</style>
+</head>
+<body>
+	<h2>3의 배수 찾기</h2>
+
+	<script>
+		let count = 0;
+		const n = 3;
+
+		for(let i = 1; i <= 100; i++){
+			if(i % n == 0){
+				count++;
+				document.write(i + " ");
+			}
+		}
+		document.write("<br><br> 3의 배수의 갯수 :" + count);
+	</script>
+</body>
+</html>
