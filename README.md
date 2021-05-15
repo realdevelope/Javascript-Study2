@@ -17,21 +17,21 @@
 ## 학습내용 #1 
 ---
 ### DO it 자바스크립트 + 137예제
-01. [Hello Javascript](https://github.com/kebin0613/Javascript-Study2/blob/master/DO_it_js/ch_01/README.md)
+01. [Hello Javascript](https://github.com/kebin0613/Javascript-Study2/blob/master/Do_it_js/ch_01/README.md)
     - 웹프로그래밍
     - 자바스크립트로 할 수 있는것
     - 자바스크립트 특징
-02. [자바스크립트와 친해지기](https://github.com/kebin0613/Javascript-Study2/blob/master/DO_it_js/ch_02/README.md)
+02. [자바스크립트와 친해지기](https://github.com/kebin0613/Javascript-Study2/blob/master/Do_it_js/ch_02/README.md)
     - 개발환경 셋팅
     - 자바스크립트 외부 내부 스크립트
     - 자바스크립트 입.출력
     - 자바스크립트 소스 작성시 규칙
-03. [변수와 자료형 그리고 연산자](https://github.com/kebin0613/Javascript-Study2/blob/master/DO_it_js/ch_03/README.md)
+03. [변수와 자료형 그리고 연산자](https://github.com/kebin0613/Javascript-Study2/blob/master/Do_it_js/ch_03/README.md)
     - 변수
     - 자료형
     - 연산자
     - 나이 계산 프로그램, 할인가격 계산 프로그램
-04. [제어문](https://github.com/kebin0613/Javascript-Study2/blob/master/DO_it_js/ch_04/README.md)
+04. [제어문](https://github.com/kebin0613/Javascript-Study2/blob/master/Do_it_js/ch_04/README.md)
     - if, if -else문, 삼항연산자
     - switch문
     - for문
@@ -39,20 +39,20 @@
     - while문, do -while문
     - break, continue문
     - 구구단 프로그램, 팩토리얼 계산 프로그램
-05. [함수와 이벤트](https://github.com/kebin0613/Javascript-Study2/blob/master/DO_it_js/ch_05/README.md)
+05. [함수와 이벤트](https://github.com/kebin0613/Javascript-Study2/blob/master/Do_it_js/ch_05/README.md)
     - 함수
     - 여러번 사용할 수 있는 함수
     - 이벤트 다루기
     - 매개변수가 있는 함수 실행, 이벤트 처리기를 사용하여 함수 실행
-06. [객체](https://github.com/kebin0613/Javascript-Study2/blob/master/DO_it_js/ch_06/README.md)
+06. [객체](https://github.com/kebin0613/Javascript-Study2/blob/master/Do_it_js/ch_06/README.md)
     - 객체
     - 사용자 정의 객체
     - 기념일 계산기 만들기
-07. [배열(Arry 객체)](https://github.com/kebin0613/Javascript-Study2/blob/master/DO_it_js/ch_07/README.md)
+07. [배열(Arry 객체)](https://github.com/kebin0613/Javascript-Study2/blob/master/Do_it_js/ch_07/README.md)
     - Array 객체란?
     - Array 객체의 함수들
     - TODoList - 여행준비물 점검 프로그램
-08. [문서 객체 모델(DOM)](https://github.com/kebin0613/Javascript-Study2/blob/master/DO_it_js/ch_08/README.md)
+08. [문서 객체 모델(DOM)](https://github.com/kebin0613/Javascript-Study2/blob/master/Do_it_js/ch_08/README.md)
     - 문서 객체 모델(DOM)
     - DOM 요소에 접근
     - 웹 요소의 속성 가져와서 수정
@@ -61,18 +61,18 @@
     - DOM 요소 추가
     - 추가한 노드 순서바꾸거나 삭제
     - 쇼핑몰 이미지 큰이미지로 표시하는 프로그램, 신청명단 프로그램 
-09. [폼과 자바스크립트](https://github.com/kebin0613/Javascript-Study2/blob/master/DO_it_js/ch_09/README.md)
+09. [폼과 자바스크립트](https://github.com/kebin0613/Javascript-Study2/blob/master/Do_it_js/ch_09/README.md)
     - 폼 요소에 접근하는 여러가지 방법
     - 폼 요소에서 입력값 검증(폼 벨리데이션)
     - 다양한 폼 요소 다루기
     - 배송 정보 자동입력 프로그램, 입력값 검증 프로그램
-10. [웹 브라우저를 다루는 방법, 브라우저 객체모델(BOM)](https://github.com/kebin0613/Javascript-Study2/blob/master/DO_it_js/ch_10/README.md)
+10. [웹 브라우저를 다루는 방법, 브라우저 객체모델(BOM)](https://github.com/kebin0613/Javascript-Study2/blob/master/Do_it_js/ch_10/README.md)
     - 브라우저 객체모델(BOM)
     - Window 객체
     - Navigator 객체
     - 그 밖의 객체(History, Location, Screen)
     - 팝업창 표시 프로그램
-11. [실전 프로젝트](https://github.com/kebin0613/Javascript-Study2/blob/master/DO_it_js/ch_11_%EC%8B%A4%EC%A0%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/README.md) 
+11. [실전 프로젝트](https://github.com/kebin0613/Javascript-Study2/blob/master/Do_it_js/ch_11_%EC%8B%A4%EC%A0%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/README.md) 
     - 숫자 맞히기 프로그램
     - 이미지 슬라이드 프로그램
     - 온도 변환기 프로그램<br><br><br>
