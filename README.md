@@ -8,14 +8,13 @@
 >할머니, 할아버지를 이해시켜드릴 정도로 설명하지 못하면 아는거라고 할 수 없다. - 아인슈타인-
 <hr><br>
 
-## 학습자료
----
 
+## 학습자료
 1. Do it 자바스크립트 + 137개 예제
 2. 공식문서(튜토리얼) -> https://ko.javascript.info/  <br><br>
 
+
 ## 학습내용 #1 
----
 ### DO it 자바스크립트 + 137예제
 01. [Hello Javascript](https://github.com/kebin0613/Javascript-Study2/blob/master/Do_it_js/ch_01/README.md)
     - 웹프로그래밍
@@ -78,9 +77,7 @@
     - 온도 변환기 프로그램<br><br><br>
 
 
-
  ## 학습내용 #2   
- ---
 ### 공식문서(튜토리얼)
 01. 
     
