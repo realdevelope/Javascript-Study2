@@ -109,7 +109,7 @@
     - ~~닌자 코드~~
     - [테스트 자동화와 Mocha](https://github.com/kebin0613/Javascript-Study2/tree/master/Tutorial/3.%20%EC%BD%94%EB%93%9C%20%ED%92%88%EC%A7%88/04.%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%90%EB%8F%99%ED%99%94%EC%99%80%20Mocha)
     - [폴리필](https://github.com/kebin0613/Javascript-Study2/tree/master/Tutorial/3.%20%EC%BD%94%EB%93%9C%20%ED%92%88%EC%A7%88/05.%20%ED%8F%B4%EB%A6%AC%ED%95%84)
-<!-- 4. 객체: 기본
+ 4. 객체: 기본
     - 객체
     - 참조에 의한 객체 복사
     - 가비지 컬렉션
@@ -118,7 +118,7 @@
     - 옵셔널 체이닝 '?."
     - 심볼형
     - 객체를 원시형으로 변환하기
-5. 자료구조와 자료형
+<!--5. 자료구조와 자료형
     - 원시값의 메서드
     - 숫자형
     - 문자열
